@@ -24,4 +24,4 @@
 
 #Untuk lengkapnya, coba gunakan syntak sederhana lainya yang ingin kalian coba : [w3school](https://www.w3schools.com/python/default.asp)
 
-Sampai segini dulu untuk pengenalan bahasa pemrograman, dimana author sendiri untuk mempeljarinya sampai pusing 7 keliling, karena ada structuredan fungsi yang  lebih comlex di banding fungsi hello word ini,,hehe,,,see ya
+Sampai segini dulu untuk pengenalan bahasa pemrograman python, dimana author sendiri untuk mempeljarinya sampai pusing 7 keliling, karena ada structuredan fungsi yang  lebih comlex di banding fungsi hello word ini,,hehe,,,see ya
