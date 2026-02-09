@@ -14,6 +14,7 @@
 
 #disini saya menggunakan di VsCode. Kadang juga di Jupyther kalau ingin ML/DL dataset yang ingin aku modelkan(paling mudahnya di google colabsya,,hehe,menurut pribadi antum sendiri,hehe). untuk penggunaanya, silahkan cari sendiri literatur online tata cara penggunaan nya sesuai kenyamanan dan kebutuhan.
 
+# Penggunaan
 - untuk penggunaanya, silahkan membuat file dengan ber-extensi (nama_file).py
 - Dan tulis bahasa pemrograman perintah output ini :
      ```bash
