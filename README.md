@@ -4,9 +4,9 @@
    ```bash
      python --version
    ```
----
+
 ![Install](https://github.com/imammularif/Basic---Python/blob/main/image/1.png)
----
+
 #Ini jika kalai python sudah terinstall di lokal komputer(MacOS/Windows/Ubuntu)
 
 - Untuk Penginstalan Python sendiri, kunjungi halaman [Instalasi Python](https://www.python.org/downloads/windows/) , Instal sesuai OS yang digunakan.
@@ -19,4 +19,4 @@
      ```bash
      print("Hello World!")
    ```
-![Output]([https://github.com/imammularif/Basic---Python/blob/main/image/1.png](https://github.com/imammularif/Basic---Python/blob/main/image/2.png))
+![Output](https://github.com/imammularif/Basic---Python/blob/main/image/2.png)
