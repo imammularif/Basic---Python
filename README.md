@@ -7,7 +7,7 @@
 
 <img src="https://github.com/imammularif/Basic---Python/blob/main/image/1.png?raw=true" width="50%">
 
-#Ini jika kalai python sudah terinstall di lokal komputer(MacOS/Windows/Ubuntu)
+#Ini jika kalau python sudah terinstall di lokal komputer(MacOS/Windows/Ubuntu)
 
 - Untuk Penginstalan Python sendiri, kunjungi halaman [Instalasi Python](https://www.python.org/downloads/windows/) , Instal sesuai OS yang digunakan.
 - Setelah selesai penginstallan, siapkan Tools Integrated Development Environment (IDE) untuk menjalankan program python saudara yang ingin di buat
