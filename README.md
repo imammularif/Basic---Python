@@ -12,7 +12,7 @@
 - Untuk Penginstalan Python sendiri, kunjungi halaman [Instalasi Python](https://www.python.org/downloads/windows/) , Instal sesuai OS yang digunakan.
 - Setelah selesai penginstallan, siapkan Tools Integrated Development Environment (IDE) untuk menjalankan program python saudara yang ingin di buat
 
-#disini saya menggunakan di VsCode. Kadang juga di Jupyther kalau ingin ML/DL dataset yang ingin aku modelkan(paling mudahnya di google colabsya,,hehe,menurut pribadi antum sendiri,hehe). untuk penggunaanya, silahkan cari sendiri literatur online tata cara penggunaan nya sesuai kenyamanan dan kebutuhan.
+#disini saya menggunakan di VsCode.
 
 # Penggunaan
 - untuk penggunaanya, silahkan membuat file dengan ber-extensi (nama_file).py
